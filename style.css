@@ -29,11 +29,11 @@
   text-align: center;
 }
 
-.line_removal {
+.all_link {
   text-decoration: none;
 }
 
-.header__link:hover {
+.all_link:hover {
   text-decoration: underline;
 }
 
